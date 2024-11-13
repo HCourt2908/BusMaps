@@ -13,7 +13,7 @@ target/
 *.ipr
 
 ### Henry ###
-config.java
+src/main/java/org/example
 
 ### Eclipse ###
 .apt_generated
